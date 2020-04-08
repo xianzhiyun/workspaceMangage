@@ -90,6 +90,3 @@ npm run apiUI
 ```
 
 ### 捐赠
-
-![Image text](http://www.wuwenzhou.com.cn:9527/ZFB.jpeg)
-![Image text](http://www.wuwenzhou.com.cn:9527/WX.jpeg)
